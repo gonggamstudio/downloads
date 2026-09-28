@@ -34,8 +34,8 @@
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/converter-v1.0.0",
       "windows": {
         "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe",
-        "sha256": "a94bbf4bd26a0acace1960ea14bd35204cc71b2fb4f9dcdc3c87fdda87b0e283",
-        "size": 14791367
+        "sha256": "b309b5a9619ff536e7e461504197e9fa60dd42c374565c6d3b888a9573d0e2c3",
+        "size": 14791985
       }
     },
     "gonggamcanvas": {

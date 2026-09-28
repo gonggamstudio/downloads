@@ -22,8 +22,8 @@
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.0",
       "windows": {
         "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.0/GonggamGrab-Setup-1.0.0.exe",
-        "sha256": "016f3703c3d586c9c571fc86091903c314f442be2ad556165193ea980160197a",
-        "size": 39362497
+        "sha256": "af808ea41d341438566208d517dfabfe81269ba3f38d24419592c7de1ad1e2ae",
+        "size": 22724628
       }
     },
     "gonggamconverter": {

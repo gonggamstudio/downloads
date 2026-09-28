@@ -58,8 +58,8 @@
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.0",
       "windows": {
         "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-Setup-1.0.0.exe",
-        "sha256": "8c19f00e153fc4cf866b7ed8a803677b57671baa8d669001dae143639b9ee1f1",
-        "size": 160790416
+        "sha256": "6b7273e7873b080ac6ff68d9861f2ef2c79a1f4ecc93c66e6a88596222042b71",
+        "size": 160791167
       }
     }
   }

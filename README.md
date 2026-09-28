@@ -11,6 +11,7 @@
 | 공감그랩 (화면 캡처) | 1.0.0 | [GonggamGrab-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.0/GonggamGrab-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
 | 공감컨버터 (이미지·PDF 변환) | 1.0.0 | [GonggamConverter-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
 | 공감캔버스 (사진 편집) | 1.0.0 | [GonggamCanvas-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.0/GonggamCanvas-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
+| 공감모션 (영상 편집) | 1.0.0 | [GonggamMotion-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
 
 지난 버전과 바뀐 점은 [릴리스](https://github.com/gonggamstudio/downloads/releases) 에서 볼 수 있습니다.
 

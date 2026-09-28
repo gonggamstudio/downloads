@@ -49,6 +49,18 @@
         "sha256": "ea7d04ee5113ed791df99c924167e2c6b7861df56a967f8dc2b481ed4f4dcd2e",
         "size": 124872379
       }
+    },
+    "gonggammotion": {
+      "name": "공감모션",
+      "desc": "영상 편집",
+      "version": "1.0.0",
+      "released": "2026-09-29",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.0",
+      "windows": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-Setup-1.0.0.exe",
+        "sha256": "8c19f00e153fc4cf866b7ed8a803677b57671baa8d669001dae143639b9ee1f1",
+        "size": 160790416
+      }
     }
   }
 }

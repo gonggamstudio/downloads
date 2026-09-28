@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "updated": "2026-09-28",
+  "apps": {
+    "gonggamplayer": {
+      "name": "공감플레이어",
+      "version": "1.0.0",
+      "released": "2026-09-28",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.0",
+      "windows": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.0/GonggamPlayer-Setup-1.0.0.exe",
+        "sha256": "b51327888c95b4d970cc4121a95f609f06d1fdeaa7e1e68df66ce24c6b475794",
+        "size": 25422254
+      }
+    },
+    "gonggamgrab": {
+      "name": "공감그랩",
+      "version": "1.0.0",
+      "released": "2026-09-28",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.0",
+      "windows": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.0/GonggamGrab-Setup-1.0.0.exe",
+        "sha256": "c0eef83b84a2fdb891d3883a725434cd2bc85c1d4fe059307a0278dc7af30225",
+        "size": 39353321
+      }
+    }
+  }
+}

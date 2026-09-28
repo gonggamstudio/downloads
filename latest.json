@@ -10,8 +10,8 @@
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.0",
       "windows": {
         "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.0/GonggamPlayer-Setup-1.0.0.exe",
-        "sha256": "8b90132503b674089effe416ca5a2224b54ea83ec23f298de593e84dc563ffde",
-        "size": 25603820
+        "sha256": "c8a0ca85b060d1726bf301c0db89876e49da51347da67cc0a9a748e1211eba92",
+        "size": 25604167
       }
     },
     "gonggamgrab": {

@@ -46,8 +46,8 @@
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.0",
       "windows": {
         "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.0/GonggamCanvas-Setup-1.0.0.exe",
-        "sha256": "ea7d04ee5113ed791df99c924167e2c6b7861df56a967f8dc2b481ed4f4dcd2e",
-        "size": 124872379
+        "sha256": "f7880785ae885970502990f8847b675a381da1d0800ae2b7f0aef2b94c3ca72a",
+        "size": 124872942
       }
     },
     "gonggammotion": {

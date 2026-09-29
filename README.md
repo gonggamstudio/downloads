@@ -5,23 +5,32 @@
 
 ## 최신 버전
 
-| 프로그램 | 버전 | 받기 | 운영체제 |
+| 프로그램 | 버전 | Windows 10/11 (64비트) | macOS 12 이상 (Apple Silicon) |
 |---|---|---|---|
-| 공감플레이어 (영상·음악 재생) | 1.0.0 | [GonggamPlayer-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.0/GonggamPlayer-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
-| 공감그랩 (화면 캡처) | 1.0.1 | [GonggamGrab-Setup-1.0.1.exe](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.1/GonggamGrab-Setup-1.0.1.exe) | Windows 10/11 (64비트) |
-| 공감컨버터 (이미지·PDF 변환) | 1.0.0 | [GonggamConverter-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
-| 공감캔버스 (사진 편집) | 1.0.0 | [GonggamCanvas-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.0/GonggamCanvas-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
-| 공감모션 (영상 편집) | 1.0.0 | [GonggamMotion-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-Setup-1.0.0.exe) | Windows 10/11 (64비트) |
+| 공감플레이어 (영상·음악 재생) | 1.0.0 | [GonggamPlayer-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.0/GonggamPlayer-Setup-1.0.0.exe) | — |
+| 공감그랩 (화면 캡처) | 1.0.2 | [GonggamGrab-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.2/GonggamGrab-Setup-1.0.2.exe) | — |
+| 공감컨버터 (이미지·PDF 변환) | 1.0.0 | [GonggamConverter-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe) | — |
+| 공감캔버스 (사진 편집) | 1.0.0 | [GonggamCanvas-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.0/GonggamCanvas-Setup-1.0.0.exe) | — |
+| 공감모션 (영상 편집) | 1.0.0 | [GonggamMotion-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-Setup-1.0.0.exe) | — |
 
 지난 버전과 바뀐 점은 [릴리스](https://github.com/gonggamstudio/downloads/releases) 에서 볼 수 있습니다.
 
-## 설치할 때 파란 경고가 뜨면
+## 설치할 때 파란 경고가 뜨면 (Windows)
 
 "Windows의 PC 보호" 창이 뜨면 **추가 정보 → 실행** 을 누르세요.
 받은 파일이 올바른지 확인하려면 릴리스에 적힌 SHA-256 값과 비교하세요.
 
 ```
 certutil -hashfile 받은파일.exe SHA256
+```
+
+## Mac 에 설치하기
+
+받은 `.dmg` 를 열고 앱을 **응용 프로그램(Applications)** 폴더로 끌어 놓으세요.
+맥용 프로그램은 Apple 의 확인(공증)을 받아 경고 없이 열립니다.
+
+```
+shasum -a 256 받은파일.dmg
 ```
 
 ## 이용
@@ -32,7 +41,7 @@ certutil -hashfile 받은파일.exe SHA256
 
 ## 프로그램·사이트용: 최신 버전 정보
 
-[`latest.json`](latest.json) 에 프로그램별 최신 버전과 받는 주소가 있습니다.
+[`latest.json`](latest.json) 에 프로그램별 최신 버전과 받는 주소가 있습니다 (`windows`, `mac`).
 
 ```
 https://raw.githubusercontent.com/gonggamstudio/downloads/main/latest.json

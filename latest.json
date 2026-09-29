@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "apps": {
     "gonggamplayer": {
       "name": "공감플레이어",
@@ -17,13 +17,13 @@
     "gonggamgrab": {
       "name": "공감그랩",
       "desc": "화면 캡처",
-      "version": "1.0.1",
-      "released": "2026-09-29",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.1",
+      "version": "1.0.2",
+      "released": "2026-09-30",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.2",
       "windows": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.1/GonggamGrab-Setup-1.0.1.exe",
-        "sha256": "186dcf0277b7ac4172c2c2aec09b02d1c832e3f9aaf0269e2197b683fa5e3881",
-        "size": 39366482
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.2/GonggamGrab-Setup-1.0.2.exe",
+        "sha256": "2e19c2e36194bcc7ab5c9fe161d4e5e20e4b5a45f7e35170c50ad61b7c47908a",
+        "size": 39407181
       }
     },
     "gonggamconverter": {

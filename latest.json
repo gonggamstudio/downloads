@@ -41,6 +41,11 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe",
         "sha256": "b309b5a9619ff536e7e461504197e9fa60dd42c374565c6d3b888a9573d0e2c3",
         "size": 14791985
+      },
+      "mac": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-1.0.0.dmg",
+        "sha256": "18fddadff11a71ff1acc6037f1024d37bef5be3b5759ce73684da2351ebf3426",
+        "size": 30984095
       }
     },
     "gonggamcanvas": {

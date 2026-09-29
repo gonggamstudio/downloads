@@ -17,13 +17,13 @@
     "gonggamgrab": {
       "name": "공감그랩",
       "desc": "화면 캡처",
-      "version": "1.0.0",
-      "released": "2026-09-28",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.0",
+      "version": "1.0.1",
+      "released": "2026-09-29",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.1",
       "windows": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.0/GonggamGrab-Setup-1.0.0.exe",
-        "sha256": "ac1de1ee9124a3017fd3d225a549aa06ac323a54e39a27c458a725df99de3566",
-        "size": 39358349
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.1/GonggamGrab-Setup-1.0.1.exe",
+        "sha256": "186dcf0277b7ac4172c2c2aec09b02d1c832e3f9aaf0269e2197b683fa5e3881",
+        "size": 39366482
       }
     },
     "gonggamconverter": {

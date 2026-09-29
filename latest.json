@@ -71,6 +71,18 @@
         "sha256": "22d68eec9649a93be39659cc6b9e8b1d947fb67147ae896b2b751bc0f522699f",
         "size": 160790923
       }
+    },
+    "gonggamsheet": {
+      "name": "공감시트",
+      "desc": "표 계산",
+      "version": "1.0.0",
+      "released": "2026-09-30",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.0",
+      "windows": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.0/GonggamSheet-Setup-1.0.0.exe",
+        "sha256": "1f635b0906376d5c4e92fb6faa68f00bbe1b935373d7ff9cec3c14dc41182542",
+        "size": 12250662
+      }
     }
   }
 }

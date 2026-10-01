@@ -80,6 +80,11 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-Setup-1.0.1.exe",
         "sha256": "a21d425124e69891ada816705d093bb49577de9f3dc6ad1f73d1063babcf5218",
         "size": 160791816
+      },
+      "mac": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-1.0.1-arm64.dmg",
+        "sha256": "0c087b06ee74e7c1ab1aad92e2d35f618ebe5b957e8a44af3dd7deced60bfc3c",
+        "size": 140770646
       }
     },
     "gonggamsheet": {

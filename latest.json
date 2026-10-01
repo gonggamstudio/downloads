@@ -65,18 +65,13 @@
     "gonggamsheet": {
       "name": "공감시트",
       "desc": "표 계산",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "released": "2026-10-01",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.1",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.2",
       "windows": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-Setup-1.0.1.exe",
-        "sha256": "71679b05a79f9ca6cc78415e179eb88d1b0e59211a437c9c3282fa4140a83a6a",
-        "size": 12455578
-      },
-      "mac": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-1.0.1.dmg",
-        "sha256": "8841aba89198d7ac338c673b47c23228215a4313231e5f7256280aea2428f1d1",
-        "size": 24433259
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-Setup-1.0.2.exe",
+        "sha256": "19a2a8d0bc6851bd43baaed44ebd996520df5405cf4d20b704553590ec41d951",
+        "size": 12461550
       }
     }
   }

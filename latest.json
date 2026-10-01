@@ -5,16 +5,16 @@
     "gonggamplayer": {
       "name": "공감플레이어",
       "desc": "영상·음악 재생",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "released": "2026-10-01",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.1",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.2",
       "windows": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "released": "2026-10-01",
-        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.1",
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-Setup-1.0.1.exe",
-        "sha256": "24640711742c07e4b40e3b3335cabb0ee44a49130503b4795190319ae6541431",
-        "size": 25613957
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.2",
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.2/GonggamPlayer-Setup-1.0.2.exe",
+        "sha256": "1051fcb9dd9200d88d9b81ab93607d0272c1f61ca02a186c6c92294a3df72258",
+        "size": 25644836
       },
       "mac": {
         "version": "1.0.1",

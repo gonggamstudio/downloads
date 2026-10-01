@@ -7,7 +7,7 @@
 
 | 프로그램 | 버전 | Windows 10/11 (64비트) | macOS 12 이상 (Apple Silicon) |
 |---|---|---|---|
-| 공감플레이어 (영상·음악 재생) | 1.0.1 | [GonggamPlayer-Setup-1.0.1.exe](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-Setup-1.0.1.exe) | [GonggamPlayer-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-1.0.1.dmg) |
+| 공감플레이어 (영상·음악 재생) | Windows 1.0.2 · Mac 1.0.1 | [GonggamPlayer-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.2/GonggamPlayer-Setup-1.0.2.exe) | [GonggamPlayer-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-1.0.1.dmg) |
 | 공감그랩 (화면 캡처) | 1.0.3 | [GonggamGrab-Setup-1.0.3.exe](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-Setup-1.0.3.exe) | [GonggamGrab-1.0.3.dmg](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-1.0.3.dmg) |
 | 공감컨버터 (이미지·PDF 변환) | Windows 1.0.2 · Mac 1.0.1 | [GonggamConverter-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.2/GonggamConverter-Setup-1.0.2.exe) | [GonggamConverter-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.1/GonggamConverter-1.0.1.dmg) |
 | 공감캔버스 (사진 편집) | Windows 1.0.2 · Mac 1.0.1 | [GonggamCanvas-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.2/GonggamCanvas-Setup-1.0.2.exe) | [GonggamCanvas-1.0.1-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-1.0.1-arm64.dmg) |

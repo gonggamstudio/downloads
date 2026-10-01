@@ -97,16 +97,16 @@
     "gonggammotion": {
       "name": "공감모션",
       "desc": "영상 편집",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "released": "2026-10-01",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.1",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.2",
       "windows": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "released": "2026-10-01",
-        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.1",
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-Setup-1.0.1.exe",
-        "sha256": "a21d425124e69891ada816705d093bb49577de9f3dc6ad1f73d1063babcf5218",
-        "size": 160791816
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.2",
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.2/GonggamMotion-Setup-1.0.2.exe",
+        "sha256": "922c5f616b435742413fbb4951bd7d8da7847b06e4f24f2684db8963b5061a3b",
+        "size": 160792585
       },
       "mac": {
         "version": "1.0.1",

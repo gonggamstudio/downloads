@@ -63,6 +63,11 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-Setup-1.0.1.exe",
         "sha256": "0ee9b7320a34464333e8d163983497a61df32de0372b1e628448c8c9a4f00c99",
         "size": 124873737
+      },
+      "mac": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-1.0.1-arm64.dmg",
+        "sha256": "af550c278e9080e6fd2807adc79d46c9495eba4e05a18afb9a69f582de9d9408",
+        "size": 158658366
       }
     },
     "gonggammotion": {

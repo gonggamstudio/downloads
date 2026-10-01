@@ -39,18 +39,13 @@
     "gonggamconverter": {
       "name": "공감컨버터",
       "desc": "이미지·PDF 변환",
-      "version": "1.0.0",
-      "released": "2026-09-29",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/converter-v1.0.0",
+      "version": "1.0.1",
+      "released": "2026-10-01",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/converter-v1.0.1",
       "windows": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe",
-        "sha256": "b309b5a9619ff536e7e461504197e9fa60dd42c374565c6d3b888a9573d0e2c3",
-        "size": 14791985
-      },
-      "mac": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-1.0.0.dmg",
-        "sha256": "18fddadff11a71ff1acc6037f1024d37bef5be3b5759ce73684da2351ebf3426",
-        "size": 30984095
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.1/GonggamConverter-Setup-1.0.1.exe",
+        "sha256": "08cc3b3e8d06da79ac731504e2beff9b7a1bacfc55fffe8e389ce16ef868fc36",
+        "size": 14792355
       }
     },
     "gonggamcanvas": {

@@ -97,6 +97,11 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-Setup-1.0.1.exe",
         "sha256": "71679b05a79f9ca6cc78415e179eb88d1b0e59211a437c9c3282fa4140a83a6a",
         "size": 12455578
+      },
+      "mac": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-1.0.1.dmg",
+        "sha256": "8841aba89198d7ac338c673b47c23228215a4313231e5f7256280aea2428f1d1",
+        "size": 24433259
       }
     }
   }

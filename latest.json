@@ -12,6 +12,11 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-Setup-1.0.1.exe",
         "sha256": "24640711742c07e4b40e3b3335cabb0ee44a49130503b4795190319ae6541431",
         "size": 25613957
+      },
+      "mac": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-1.0.1.dmg",
+        "sha256": "ed20641aa6bb72dd602c967a445dee6ab829d1aa0a579aa37540c6a5dc8430ed",
+        "size": 40057358
       }
     },
     "gonggamgrab": {

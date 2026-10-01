@@ -9,11 +9,17 @@
       "released": "2026-10-01",
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.1",
       "windows": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-Setup-1.0.1.exe",
         "sha256": "24640711742c07e4b40e3b3335cabb0ee44a49130503b4795190319ae6541431",
         "size": 25613957
       },
       "mac": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/player-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-1.0.1.dmg",
         "sha256": "ed20641aa6bb72dd602c967a445dee6ab829d1aa0a579aa37540c6a5dc8430ed",
         "size": 40057358
@@ -26,11 +32,17 @@
       "released": "2026-10-01",
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.3",
       "windows": {
+        "version": "1.0.3",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.3",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-Setup-1.0.3.exe",
         "sha256": "4455fc2572473c986315e61699ec9b6ab2ae4fba4a30e3ca4c3fff9add1ea2d9",
         "size": 39400873
       },
       "mac": {
+        "version": "1.0.3",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/grab-v1.0.3",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-1.0.3.dmg",
         "sha256": "ae64955346c90eace981d2a57ac2d02c23928e76ec1364657f92b9f095a34625",
         "size": 51129692
@@ -43,11 +55,17 @@
       "released": "2026-10-01",
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/converter-v1.0.1",
       "windows": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/converter-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.1/GonggamConverter-Setup-1.0.1.exe",
         "sha256": "08cc3b3e8d06da79ac731504e2beff9b7a1bacfc55fffe8e389ce16ef868fc36",
         "size": 14792355
       },
       "mac": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/converter-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.1/GonggamConverter-1.0.1.dmg",
         "sha256": "12b2969c774e759540692f376ceff6b74f1644fb340d653ecf398a9a60c91a11",
         "size": 31011429
@@ -60,11 +78,17 @@
       "released": "2026-10-01",
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.1",
       "windows": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-Setup-1.0.1.exe",
         "sha256": "0ee9b7320a34464333e8d163983497a61df32de0372b1e628448c8c9a4f00c99",
         "size": 124873737
       },
       "mac": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-1.0.1-arm64.dmg",
         "sha256": "af550c278e9080e6fd2807adc79d46c9495eba4e05a18afb9a69f582de9d9408",
         "size": 158658366
@@ -77,11 +101,17 @@
       "released": "2026-10-01",
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.1",
       "windows": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-Setup-1.0.1.exe",
         "sha256": "a21d425124e69891ada816705d093bb49577de9f3dc6ad1f73d1063babcf5218",
         "size": 160791816
       },
       "mac": {
+        "version": "1.0.1",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/motion-v1.0.1",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-1.0.1-arm64.dmg",
         "sha256": "0c087b06ee74e7c1ab1aad92e2d35f618ebe5b957e8a44af3dd7deced60bfc3c",
         "size": 140770646
@@ -94,11 +124,17 @@
       "released": "2026-10-01",
       "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.2",
       "windows": {
+        "version": "1.0.2",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.2",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-Setup-1.0.2.exe",
         "sha256": "2c5826311a86dfcf20aceb44adb9254f467f08b4df5abe1a196bf0d2f235e004",
         "size": 12470895
       },
       "mac": {
+        "version": "1.0.2",
+        "released": "2026-10-01",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.2",
         "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-1.0.2.dmg",
         "sha256": "5cd8aa3a8d1fbc4d7e196fff337c356a6ac259a10a6905e2f01e30774013f1ff",
         "size": 24483559

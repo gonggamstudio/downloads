@@ -42,7 +42,8 @@ shasum -a 256 받은파일.dmg
 
 ## 프로그램·사이트용: 최신 버전 정보
 
-[`latest.json`](latest.json) 에 프로그램별 최신 버전과 받는 주소가 있습니다 (`windows`, `mac`).
+[`latest.json`](latest.json) 에 프로그램별 최신 버전과 받는 주소가 있습니다.
+운영체제마다 버전이 다를 수 있어 `windows`·`mac` 항목에 각각 `version` 이 들어 있습니다.
 
 ```
 https://raw.githubusercontent.com/gonggamstudio/downloads/main/latest.json

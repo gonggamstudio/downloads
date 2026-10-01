@@ -74,16 +74,16 @@
     "gonggamcanvas": {
       "name": "공감캔버스",
       "desc": "사진 편집",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "released": "2026-10-01",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.1",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.2",
       "windows": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "released": "2026-10-01",
-        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.1",
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-Setup-1.0.1.exe",
-        "sha256": "0ee9b7320a34464333e8d163983497a61df32de0372b1e628448c8c9a4f00c99",
-        "size": 124873737
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/canvas-v1.0.2",
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.2/GonggamCanvas-Setup-1.0.2.exe",
+        "sha256": "61d22eec7f9f20df0e47ed0858d96ef0661b0003fc136f3de1a941021f872bf6",
+        "size": 124874021
       },
       "mac": {
         "version": "1.0.1",

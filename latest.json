@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "apps": {
     "gonggamplayer": {
       "name": "공감플레이어",
@@ -85,13 +85,13 @@
     "gonggamsheet": {
       "name": "공감시트",
       "desc": "표 계산",
-      "version": "1.0.0",
-      "released": "2026-09-30",
-      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.0",
+      "version": "1.0.1",
+      "released": "2026-10-01",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/sheet-v1.0.1",
       "windows": {
-        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.0/GonggamSheet-Setup-1.0.0.exe",
-        "sha256": "4b85b5351d1787496910eb4c4f7c28a068739d82d1e3699fee2b904ff6f9565a",
-        "size": 12456331
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-Setup-1.0.1.exe",
+        "sha256": "71679b05a79f9ca6cc78415e179eb88d1b0e59211a437c9c3282fa4140a83a6a",
+        "size": 12455578
       }
     }
   }

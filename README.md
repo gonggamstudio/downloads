@@ -11,7 +11,7 @@
 | 공감그랩 (화면 캡처) | 1.0.2 | [GonggamGrab-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.2/GonggamGrab-Setup-1.0.2.exe) | [GonggamGrab-1.0.2.dmg](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.2/GonggamGrab-1.0.2.dmg) |
 | 공감컨버터 (이미지·PDF 변환) | 1.0.0 | [GonggamConverter-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-Setup-1.0.0.exe) | [GonggamConverter-1.0.0.dmg](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.0/GonggamConverter-1.0.0.dmg) |
 | 공감캔버스 (사진 편집) | 1.0.1 | [GonggamCanvas-Setup-1.0.1.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-Setup-1.0.1.exe) | — |
-| 공감모션 (영상 편집) | 1.0.0 | [GonggamMotion-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-Setup-1.0.0.exe) | [GonggamMotion-1.0.0-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.0/GonggamMotion-1.0.0-arm64.dmg) |
+| 공감모션 (영상 편집) | 1.0.1 | [GonggamMotion-Setup-1.0.1.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-Setup-1.0.1.exe) | — |
 | 공감시트 (표 계산) | 1.0.1 | [GonggamSheet-Setup-1.0.1.exe](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-Setup-1.0.1.exe) | [GonggamSheet-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.1/GonggamSheet-1.0.1.dmg) |
 
 지난 버전과 바뀐 점은 [릴리스](https://github.com/gonggamstudio/downloads/releases) 에서 볼 수 있습니다.

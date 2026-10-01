@@ -12,7 +12,7 @@
 | 공감컨버터 (이미지·PDF 변환) | Windows 1.0.2 · Mac 1.0.1 | [GonggamConverter-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.2/GonggamConverter-Setup-1.0.2.exe) | [GonggamConverter-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.1/GonggamConverter-1.0.1.dmg) |
 | 공감캔버스 (사진 편집) | Windows 1.0.2 · Mac 1.0.1 | [GonggamCanvas-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.2/GonggamCanvas-Setup-1.0.2.exe) | [GonggamCanvas-1.0.1-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-1.0.1-arm64.dmg) |
 | 공감모션 (영상 편집) | Windows 1.0.2 · Mac 1.0.1 | [GonggamMotion-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.2/GonggamMotion-Setup-1.0.2.exe) | [GonggamMotion-1.0.1-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-1.0.1-arm64.dmg) |
-| 공감시트 (표 계산) | 1.0.2 | [GonggamSheet-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-Setup-1.0.2.exe) | [GonggamSheet-1.0.2.dmg](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-1.0.2.dmg) |
+| 공감시트 (표 계산) | Windows 1.0.3 · Mac 1.0.2 | [GonggamSheet-Setup-1.0.3.exe](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.3/GonggamSheet-Setup-1.0.3.exe) | [GonggamSheet-1.0.2.dmg](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-1.0.2.dmg) |
 
 지난 버전과 바뀐 점은 [릴리스](https://github.com/gonggamstudio/downloads/releases) 에서 볼 수 있습니다.
 

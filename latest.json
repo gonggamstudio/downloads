@@ -24,6 +24,11 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-Setup-1.0.3.exe",
         "sha256": "4455fc2572473c986315e61699ec9b6ab2ae4fba4a30e3ca4c3fff9add1ea2d9",
         "size": 39400873
+      },
+      "mac": {
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-1.0.3.dmg",
+        "sha256": "ae64955346c90eace981d2a57ac2d02c23928e76ec1364657f92b9f095a34625",
+        "size": 51129692
       }
     },
     "gonggamconverter": {

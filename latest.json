@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "apps": {
     "gonggamplayer": {
       "name": "공감플레이어",
@@ -138,6 +138,21 @@
         "url": "https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-1.0.2.dmg",
         "sha256": "5cd8aa3a8d1fbc4d7e196fff337c356a6ac259a10a6905e2f01e30774013f1ff",
         "size": 24483559
+      }
+    },
+    "chakbut": {
+      "name": "착붙",
+      "desc": "메모지·체크리스트",
+      "version": "1.0.0",
+      "released": "2026-10-03",
+      "notes": "https://github.com/gonggamstudio/downloads/releases/tag/chakbut-v1.0.0",
+      "windows": {
+        "version": "1.0.0",
+        "released": "2026-10-03",
+        "notes": "https://github.com/gonggamstudio/downloads/releases/tag/chakbut-v1.0.0",
+        "url": "https://github.com/gonggamstudio/downloads/releases/download/chakbut-v1.0.0/Chakbut-Setup-1.0.0.exe",
+        "sha256": "54527f16b073a9db1e38e12fee2b4706faa81a9b247976d7ef65c157b1141161",
+        "size": 12192642
       }
     }
   }

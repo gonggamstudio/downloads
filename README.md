@@ -10,10 +10,9 @@
 | 공감플레이어 (영상·음악 재생) | Windows 1.0.2 · Mac 1.0.1 | [GonggamPlayer-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.2/GonggamPlayer-Setup-1.0.2.exe) | [GonggamPlayer-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/player-v1.0.1/GonggamPlayer-1.0.1.dmg) |
 | 공감그랩 (화면 캡처) | Windows 1.0.4 · Mac 1.0.3 | [GonggamGrab-Setup-1.0.4.exe](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.4/GonggamGrab-Setup-1.0.4.exe) | [GonggamGrab-1.0.3.dmg](https://github.com/gonggamstudio/downloads/releases/download/grab-v1.0.3/GonggamGrab-1.0.3.dmg) |
 | 공감컨버터 (이미지·PDF 변환) | Windows 1.0.2 · Mac 1.0.1 | [GonggamConverter-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.2/GonggamConverter-Setup-1.0.2.exe) | [GonggamConverter-1.0.1.dmg](https://github.com/gonggamstudio/downloads/releases/download/converter-v1.0.1/GonggamConverter-1.0.1.dmg) |
-| 공감캔버스 (사진 편집) | Windows 1.0.2 · Mac 1.0.1 | [GonggamCanvas-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.2/GonggamCanvas-Setup-1.0.2.exe) | [GonggamCanvas-1.0.1-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-1.0.1-arm64.dmg) |
+| 공감캔버스 (사진 편집) | Windows 1.0.4 · Mac 1.0.1 | [GonggamCanvas-Setup-1.0.4.exe](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.4/GonggamCanvas-Setup-1.0.4.exe) | [GonggamCanvas-1.0.1-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/canvas-v1.0.1/GonggamCanvas-1.0.1-arm64.dmg) |
 | 공감모션 (영상 편집) | Windows 1.0.2 · Mac 1.0.1 | [GonggamMotion-Setup-1.0.2.exe](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.2/GonggamMotion-Setup-1.0.2.exe) | [GonggamMotion-1.0.1-arm64.dmg](https://github.com/gonggamstudio/downloads/releases/download/motion-v1.0.1/GonggamMotion-1.0.1-arm64.dmg) |
 | 공감시트 (표 계산) | Windows 1.0.3 · Mac 1.0.2 | [GonggamSheet-Setup-1.0.3.exe](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.3/GonggamSheet-Setup-1.0.3.exe) | [GonggamSheet-1.0.2.dmg](https://github.com/gonggamstudio/downloads/releases/download/sheet-v1.0.2/GonggamSheet-1.0.2.dmg) |
-| 착붙 (메모지·체크리스트) | Windows 1.0.0 | [Chakbut-Setup-1.0.0.exe](https://github.com/gonggamstudio/downloads/releases/download/chakbut-v1.0.0/Chakbut-Setup-1.0.0.exe) | 추후 지원 |
 
 지난 버전과 바뀐 점은 [릴리스](https://github.com/gonggamstudio/downloads/releases) 에서 볼 수 있습니다.
 
@@ -37,7 +36,7 @@ shasum -a 256 받은파일.dmg
 
 ## 이용
 
-- 공감 시리즈(공감플레이어 · 공감그랩 · 공감컨버터 · 공감캔버스 · 공감모션 · 공감시트)는 공감스튜디오 회원으로 로그인해 사용합니다. 착붙은 로그인 없이 쓸 수 있고, 구글 계정으로 로그인하면 기기끼리 메모가 이어집니다.
+- 프로그램은 공감스튜디오 회원으로 로그인해 사용합니다.
 - 설치 파일과 프로그램의 저작권은 공감스튜디오에 있습니다. 이 저장소의 파일을 다른 곳에 다시 올려 배포하지 마세요.
 - 프로그램에 들어 있는 오픈소스 소프트웨어의 라이선스는 각 프로그램의 '오픈소스 라이선스' 메뉴에서 볼 수 있습니다.
 
